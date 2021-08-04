@@ -1,0 +1,25 @@
+{
+  "name": "yas_messenger",
+  "version": "1.0.0",
+  "description": "Yet Another Secure Messenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "secure",
+    "security",
+    "private",
+    "messenger",
+    "message",
+    "messeging",
+    "app",
+    "application"
+  ],
+  "author": "Clark W. Walker :)",
+  "license": "GPL-3.0-or-later"
+}
